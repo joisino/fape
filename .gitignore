@@ -1,0 +1,10 @@
+*
+
+!*/
+!*.py
+!*.cpp
+!download.sh
+!.gitignore
+!README.md
+!setup.cfg
+!pyproject.toml
